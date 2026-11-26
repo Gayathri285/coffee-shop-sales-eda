@@ -40,6 +40,10 @@ The dataset contains 3,547 transaction records with information on coffee type, 
 ```text
 coffee-shop-sales-eda/
 │
+├── images/
+│   ├── .gitkeep
+│   └── coffee-shop-thumbnail.png
+│
 ├── README.md
 └── coffee_shop_sales_eda.ipynb
 
