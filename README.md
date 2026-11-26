@@ -1,4 +1,7 @@
 # Coffee Shop Sales – Exploratory Data Analysis
+<p align="center">
+  <img src="images/coffee-shop-thumbnail.png" width="800">
+</p>
 
 ## Overview
 This project performs Exploratory Data Analysis (EDA) on a real-world coffee shop sales dataset to understand customer purchasing behavior, peak sales periods, and revenue patterns.
